@@ -4,16 +4,16 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.environ.get("API_ID", 12345))
-    API_HASH = os.environ.get("API_HASH", "")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-    BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
-    USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "")
-    CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -100))
-    BOT_USERNAME = os.environ.get("BOT_USERNAME")
-    BOT_OWNER = int(os.environ.get("BOT_OWNER"))
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
-    ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
+    API_ID = int(os.environ.get("26113756"))
+    API_HASH = os.environ.get("c4ab190d245888c76cdb3c8a60f8ee9e")
+    BOT_TOKEN = os.environ.get("5804553577:AAHCyI2vf0Wvx9Ft-grq1yT6hZStm5O5kQg")
+    BOT_SESSION_NAME = os.environ.get("Auto Search Bot")
+    USER_SESSION_STRING = os.environ.get("BQCXNCY9wcZJIgs2vUulKgI5zB0VKq9yOUyir4_1Vc7Ks4q1sYwOmBQSwLzwuyychx7FhlY7yumqHLQsfA3RawrR4ySTFbxe2W8flxAt6bNoY8Z9LcdPuzb9Iw_sHQkTluvbuYu2e9YXDQVh1bCcOODhUZOytXKRuWXSCN_BoA_X6LhrPc68FoYl5e5H95xvAKNVewKPRpodeAdoHXyThEp9BugyOQpd5XG8_oebkdfy565jdSmsMxljmJfnJV7U9wt6xj_YuKDIzdCgiOgm8ALg_Qx0FsGuKZ9ryrqfqXJorGyX1wWc5LzedlWTUc-EItHz0b_0oaQuyVrAMb-s7LXUdMZqZAA")
+    CHANNEL_ID = int(os.environ.get("-1001504172829"))
+    BOT_USERNAME = os.environ.get("@Channel_Auto_search_bot")
+    BOT_OWNER = int(os.environ.get("@Official_Mr_Prince06"))
+    UPDATES_CHANNEL = os.environ.get("@backup_zone_available")
+    ABOUT_BOT_TEXT = """<b>This is Auto Media Search Bot.
 
 🤖 My Name: <a href='https://t.me/cyniteofficial'>Mdisk Search Robot</a>
 
